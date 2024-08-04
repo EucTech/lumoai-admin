@@ -1,0 +1,18 @@
+// Desc: Define all action types here
+export const IS_LOADING = "IS_LOADING";
+
+export const LOGIN_LOADING = "LOGIN_LOADING";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAILURE = "LOGIN_FAILURE";
+
+
+export const FORGOT_PASSWORD_SUCCESS = "FORGOT_PASSWORD_SUCCESS";
+export const FORGOT_PASSWORD_FAILURE = "FORGOT_PASSWORD_FAILURE";
+
+export const RESET_PASSWORD_SUCCESS = "RESET_PASSWORD_SUCCESS";
+export const RESET_PASSWORD_FAILURE = "RESET_PASSWORD_FAILURE";
+
+export const LOGOUT = "LOGOUT";
+
+export const ALL_USERS = "ALL_USERS";
+
